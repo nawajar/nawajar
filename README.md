@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawajar&label=Profile%20views&color=0e75b6&style=flat" alt="nawajar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawajar" alt="nawajar" /></a> </p>
+[![Nawa GitHub stats](https://github-readme-stats.vercel.app/api?username=nawajar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Support:</h3>
